@@ -1,0 +1,10 @@
+ ["*greet-utter_greet",
+  "*thankyou-utter_noworries",
+  "*deny-utter_noworries",
+  "*chitchat-utter_chitchat",
+  "*affirm+mood_great-utter_happy",
+  "*deny+mood_unhappy-utter_unhappy",
+  "*inform-action_getBranches-sales_form-utter_submit",
+  "*getTotalSales-action_getBranches-sales_form-form{\"name_l\": \"sales_form\"}-form{\"name_l\": null}-utter_submit",
+  "*getTotalPurchase-action_getBranches-purchase_form-form{\"name_l\": \"purchase_form\"}-form{\"name_l\": null}-utter_submit",
+  "*getTotalSales+getTotalPurchase-action_getBranches-sales_purchase_form-form{\"name_l\": \"sales_purchase_form\"}-form{\"name_l\": null}-utter_submit"]
