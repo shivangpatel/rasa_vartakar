@@ -1,2 +1,2 @@
-# rasa_storiesMaker
+# rasa_vartakar
 It's a about making a stories in RASA from small chunks of conversation. Almost all possible way. 
